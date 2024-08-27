@@ -1,0 +1,124 @@
+erDiagram
+    %% Cenário A: Empresa Têxtil
+    CLIENTE {
+        string codigo
+        string nome
+        string endereco
+        string cidade
+        string cep
+        string uf
+        string tipoPessoa
+        string cpf
+        string cnpj
+    }
+    PEDIDO {
+        string codigo
+        date dataPedido
+        date prazoEntrega
+    }
+    VENDEDOR {
+        string codigo
+        string nome
+        float salario
+        float comissao
+    }
+    PRODUTO {
+        string codigo
+        string unidade
+        string descricao
+        float valorUnitario
+    }
+    CATEGORIA {
+        string codigo
+        string descricao
+        string status
+    }
+    ITEM_PEDIDO {
+        int quantidade
+    }
+
+    CLIENTE ||--o{ PEDIDO : faz
+    PEDIDO }o--|| VENDEDOR : intermediado_por
+    PEDIDO ||--o{ ITEM_PEDIDO : contem
+    ITEM_PEDIDO }o--|| PRODUTO : refere
+    PRODUTO }o--|| CATEGORIA : pertence
+
+    %% Cenário B: Sistema Bancário
+    AGENCIA {
+        string nome
+        string cidade
+    }
+    CLIENTE_B {
+        string cpf
+        string nome
+        string rua
+        string cidade
+    }
+    CONTA {
+        string numero
+        float saldo
+        date dataUltimoAcesso
+        string tipoConta
+        float taxaJuros
+    }
+    EMPRESTIMO {
+        string numero
+        float montante
+    }
+    PAGAMENTO {
+        int numeroParcela
+        date dataPagamento
+        float montante
+    }
+    BANCARIO {
+        string cpf
+        string nome
+        string telefone
+        string cpfGerente
+        date dataContratacao
+    }
+    DEPENDENTE {
+        string nome
+    }
+
+    AGENCIA ||--o{ EMPRESTIMO : origina
+    CLIENTE_B ||--o{ CONTA : possui
+    CLIENTE_B ||--o{ EMPRESTIMO : obtem
+    CLIENTE_B }o--|| BANCARIO : associado_a
+    CONTA ||--o{ CLIENTE_B : correntista
+    EMPRESTIMO ||--o{ PAGAMENTO : possui
+    BANCARIO ||--o{ DEPENDENTE : tem
+
+    %% Cenário C: Sistema de Reserva de Passagens Aéreas
+    RESERVA {
+        string codigo
+        date validade
+    }
+    PASSAGEIRO {
+        string cpf
+        string nome
+        string sobrenome
+    }
+    TRECHO {
+        string codigo
+        date dataHora
+        string classe
+    }
+    VOO {
+        string codigo
+        string origem
+        string destino
+    }
+    AEROPORTO {
+        string nome
+        string sigla
+    }
+    AERONAVE {
+        string tipo
+    }
+
+    RESERVA ||--o{ TRECHO : compreende
+    RESERVA }o--|| PASSAGEIRO : feita_para
+    TRECHO }o--|| VOO : parte_de
+    VOO }o--|| AEROPORTO : passa_por
+    TRECHO }o--|| AERONAVE : utiliza
