@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <title>Registro de Presença</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-size: 1.5rem; /* Aumenta o tamanho da fonte */
+        }
+        h1, h2 {
+            font-size: 2.5rem; /* Títulos maiores */
+        }
+        .form-control {
+            font-size: 1.5rem; /* Aumenta o tamanho da fonte do input */
+        }
+        .btn {
+            font-size: 1.5rem; /* Aumenta o tamanho do botão */
+        }
+        .table th, .table td {
+            font-size: 1.5rem; /* Aumenta o tamanho da fonte da tabela */
+        }
+        .notification {
+            font-size: 2rem; /* Aumenta o tamanho da fonte da notificação */
+            position: fixed; /* Fixa a notificação no topo */
+            top: 0; /* Posiciona no topo */
+            left: 0; /* Alinha à esquerda */
+            right: 0; /* Alinha à direita */
+            background-color: rgba(76, 175, 80, 0.9); /* Cor de fundo verde com opacidade */
+            color: white; /* Cor do texto */
+            text-align: center; /* Centraliza o texto */
+            padding: 20px; /* Espaçamento interno */
+            z-index: 1000; /* Garante que a notificação fique acima de outros elementos */
+            display: none; /* Inicialmente escondida */
+        }
+    </style>
+</head>
+<body>
+    <div class="mt-5 container">
+        <h1 class="mb-4 text-center text-primary"><i class="fas fa-user-check"></i> Registro de Presença</h1>
+        <form action="/" class="mb-4" method="post">
+            <div class="form-group">
+                <input class="form-control" name="student_name" placeholder="Nome do Aluno" required>
+            </div>
+            <button class="btn btn-success" type="submit"><i class="fas fa-qrcode"></i> Gerar QR Code</button>
+        </form>
+        {% if qr_code_base64 %}
+            <h2 class="text-success"><i class="fas fa-qrcode"></i> QR Code Gerado</h2>
+            <img alt="QR Code" class="img-fluid mb-3" src="data:image/png;base64,{{ qr_code_base64 }}">
+            <p>Link para o QR Code: <a href="{{ qr_code_link }}" target="_blank">{{ qr_code_link }}</a></p>
+        {% endif %}
+        <h2 class="mt-5 text-info"><i class="fas fa-list-alt"></i> Presenças Registradas</h2>
+        <div class="table-container">
+            <table class="table table-bordered table-striped" id="attendanceTable">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Nome do Aluno</th>
+                        <th>Hora de Acesso</th>
+                        <th>User Agent</th>
+                        <th>Informações do Sistema</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for info in device_info %}
+                        <tr>
+                            <td>{{ info.student_name }}</td>
+                            <td>{{ info.access_time }}</td>
+                            <td>{{ info.user_agent }}</td>
+                            <td>{{ info.system_info }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div class="alert notification" id="notification" role="alert">
+            Nova entrada registrada: <span id="studentName"></span>
+        </div>
+    </div>
+    <script>
+        let lastCount = 0; // Contador de entradas
+
+        function fetchAttendanceData() {
+            $.getJSON('/get_attendance_data', function(data) {
+                const tableBody = $('#attendanceTable tbody').empty();
+                data.forEach(info => {
+                    tableBody.append(`<tr><td>${info.student_name}</td><td>${info.access_time}</td><td>${info.user_agent}</td><td>${info.system_info}</td></tr>`);
+                });
+            });
+        }
+
+        function checkForNewEntries() {
+            $.getJSON('/get_entry_count', function(data) {
+                if (data.count > lastCount) {
+                    // Obter o nome do aluno da última entrada
+                    $.getJSON('/get_attendance_data', function(entries) {
+                        const lastEntry = entries[entries.length - 1]; // Última entrada
+                        $('#studentName').text(lastEntry.student_name); // Atualiza o nome do aluno na notificação
+                        fetchAttendanceData(); // Atualiza a tabela após nova entrada
+                    });
+                    $('#notification').fadeIn().delay(2000).fadeOut(); // Exibe a notificação
+                    lastCount = data.count; // Atualiza o contador
+                }
+            });
+        }
+
+        $(document).ready(function() {
+            setInterval(fetchAttendanceData, 500); // Atualiza a tabela a cada 500ms
+            setInterval(checkForNewEntries, 500); // Verifica novas entradas a cada 500ms
+        });
+    </script>
+</body>
+</html>

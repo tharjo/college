@@ -1,0 +1,282 @@
+{
+    "attendances": [
+        {
+            "student_name": "fdsfsdf",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAAC/klEQVR4nO2cQYrjMBBFX40NvXSgD5CjyDeYIzV9pL6BfZQ+wIC9DMj8WUhynGRm0ZPBTselhYkTPSjBp6pUJcXEl0f/4+sMOOSQQw455JBDzwlZHjVmB6Avn9IrY5nQbmKeQ+tDQZI0AOGzBpoI4dOsTKskSbqE1jPPofWhMTsAvR9PZm/DZPTHiDqm9IOZ1duZ59BqUH31bmGYEOOrLHTIaECMW5nn0OrQtSLUH35h4QPUHwZgfLmtWDz4mhy6ByqKaATZFVQCIsCUfk0C2cQ8h1aHWGaMVCIMf3qUCUGSugdfk0P3QEkR50GShSR1yVtUuh6uiGeGso8IA6grr+oaiaCIpIg0VFLXRPcRO4BmCUTUNbMYBpDmR/YW8+QHX5ND90AlagxVDhNhqNIrJJVEch7ReNTYAzQrgosIAVkH52ImKZK4Ip4cyvtLGkHfVqJvMYKmWoxVLNOqaAvowdfk0H+AcjfjZFB2GNYC9IfJoDmZutEsOY9vsiaH7s4sz1sK0uMcMGJKLz2PeH5oufuUlllkboAOXGQUrohnh0rNsrmRRUk0IRUucR+xC2ihiIv4ASlWzJGkVK1cEU8OzX2NXIPK1ctzHpEKl9mDuCL2AzUnIyhCf6hkb0MuV1o71tCbWc42NzLPodWgudMVITe5IqVwSfpuWbVyH/Hs0DJqzK2tRQqRM0vSqyvi+aFlX2PR2pqzyOw8wPOIfUH9YTKzo5YnpXozoz9c9D67bcxzaPW+Rm5kGIQPgNEAqgjjiwwmgyaWI3gPviaH7oFuz1CVWlX5lLMH74bvBCq9zzSqCEy18kHbqSa5h/E1Erqp1trmObQVlLLIgVyx7g8AVNL7sXQ4GGus3cY8hzbpdKUqREc5cTlvOMpU72vsEbIWksvI9z5Hs+JBJvsLtJ55Dq0PpaRyrEkbz/djRO9Xe9PvtiaHvjCu73SlO559y+JauIUB0f8EC9265jm0OnR7p+tcqWyUDuvnAvbgecQeIPN/JnPIIYcccsghh/4R+g1ziLvcvccr+wAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "efrd",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADGUlEQVR4nO2cQW7bMBBF35QCspQAH8BHoW/QIxU5km9gHiUHKEAtDVCYLoaUlHSVOpUdebgwJEsPJoEB+edzaFE+3dKPzzPgkEMOOeSQQw7tE5LaOuTEJDC2qzQAjO2F012659D2UFRV1QxAUDkBpAHkV/tOVVXfQ9t1z6HtobFOAHoZO/R1mIT41qGX9kBEuvt1z6G7QXJiEpsyLgQlHct/+iWHHhPqPtwrY7AYkHgGICiMX/BLDn0vqFfVC0AaJhETlcdC05igquUjtF33HNoMqnNEEgACEvOhCONBJZ67IjEfACa5T/cc2hyyiFhb2f1V7CMNiKYhoO9fePgxOXQLhGWVMYNeAL30BehLy0gtLQ1qD0xyPviYHLoFmiMiqCmFqKXFBqCawbKO+WWPiF1DtGmgQMxAzEGhX88b9oC+veoRsWeI1bowx0bNK/oCZldmqFHiEfEckMgwCUnEUgo5jV2bLawF/RvarnsOba8jqpRcJMS8kdHXKaPKCp8j9g6tcw3NwdYFYE4uMlhYzFHiEbFraO1ip58FTUNG02kSXQzseO6QuCwcDz4mh26BmkM1hiLQFRgFhVDq9GAtFEkSmo394GNy6AugdLzKypyiv9bNDQiqr+2pnO7TPYfukH1WNwoISjR7ooqJRWp49rl/qKUPhJpXWAjk5lSubCp1F/sZoKYs+wyMLyrx7UWFXpGok5jAiPlQ2vbott1z6E6Q/MqTEPUq1ZnIVUJIFROTrA2rbzEmh27MNQZgHNAkoGn4jcLUQV86q8GN57lI4sHH5NAtUNMRLc1YK4r3V2ZiuY7YO9QSiSW5MLuyVuKbqASqx+0RsXto3g3XeSOjHcuY/ex65bvhTwQtZ7qIb2IqUl9Fan0dthXqOuKJoNhsKiBoPdtnpRFVTCxV2d9lTA7dpCMytNK6druKCOZbXzWeDbKlIw1Bqz0xH/FSXzWeE4p5Er30VyHJi4ocix0DFTn6SeBngObssxVbXpZyyuZH1Fuvs3wKqFXVWVvXULWNrxoqi8rwiNg1JP7PZA455JBDDjnk0D9CfwD2xnud9pM/UwAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "4r3etgdf",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADKklEQVR4nO2cUa6rNhCGvylIPDrSWcBditlBl3TVJd0dwFKygCvhxyMZ/X2wTUhbqbo6KaHJ8BCZwCfGymg884+JiV8+5t9+nQGHHHLIIYcccug1IatHD6T6YSOUD0jthvEp5jl0PBQlScv2dfg0SGaaWM1GOkmS7qHjzHPoeCjVAGBjcYZBmoIEqUcTUCPIk8xz6HnQfAEbQ6auHyFj43/yJIf+H1C8DtKUzMy+/YMzPPBJDp0SaitBEJCgphBBMI+GoBMk2CtZJ5+TQw+AZjMzuwCkQcRrj31fOtlYqo61lBrPMs+ho2PEnZS9th8+fFo9Dfda98nn5NBXIEpVGRcAulJh1GOhlBm7q5Kk6eRzcugrUH8bClZTvPbZADSP7cJ86bLBajraPIcOh2qMIEjEpSujEhkIuUlXalejx4hXh7YYsfbFBepogXkcZLN12aDLmi94ZvkG0C2zlJEuEH8MgmQQBcQJRPrACEtziZPPyaGvQNRkkU4QckklNZVRJ2npyoIhqS0ivmq8MtTyiN1p3k6al9RUIzf3OfmcHHoAFJfmG7P11MIzZKTrIBuTWc07n2OeQ4fnEfMFIF0Augwh95D6bNAhyOU+i9Ox5jn0NCjUErRukkiDWtzI2EgnZlex3wiyEajtb1Yz+/bZ9kux2p1w+QzzHDq+1tjJVMrUaLErQmry6Znl60N7j9iWiZpULlsjA2j+4h7x4lDrdClvo1ppllG8uYqr2G8Bbb3PTmwCBKULyqZVBdcj3ga69TVKY1PzOIgqW//sLV57LF6tCN2Hm+fQ4dBu1SinJR5Q1aiaWQK3hcVjxBtAtYchyUZW09SWDmC1mlukQTY+xTyHDl81mvTUZcGKEWpL3KLWHtJHCSG+Y+ZtoLIxZqlaVQkZU+rRHzZs2ebqb/m9EdTe6aJ2OHrse2l/f1oVsIO/5fcOUP+3b9Igi1pNpI/MPILm33/e7dk++ZwceigUl9WYrae+vhHadokSPB74JIdOCe2UyiZb57o/Yncs3InaJ5+TQ1+B7vdQdVuna7+rrrY5XI94C8j07/f89fB/JnPIIYcccsghhwD+BOarRdE8p28XAAAAAElFTkSuQmCC"
+        },
+        {
+            "student_name": "teste",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAAC/UlEQVR4nO2cT27jIBjF3xuQZomlHKBHwTcb9UhzA/sovQEsK2G9WQC205lNJ1WS2h+LiBR+Cigv3z9wKXy6zT8+zwAGGWSQQQYZZNAxIbbmwTF7AFjqH9qs3CeMD1meQfeHoiQpAXp9KeAIJyBI5LCQI5wkSdfQ/ZZn0P2hvBqATOp1ABAToAmu6oCkf9zyDLob5D+8Z0yXwvjmi2a61kN+1PIMegZoIeYBQEwLMb+8d+Px9Z9k0BNDQdJUu06ICSAHQBP6i1QetzyD7g3NJMnhaigmJ/56+ymOH1KP77Eng26II65K2QuFvBDz4CCgQB8mPPueDLod4giAYyaBUIB5cJLSQo5rKYJDm/dN9mTQF9iIUDxQSxEJAFzhPAACFg9k3wOJJ9+TQbdA0NoAuBZeRhVoCl0BUZKmILXek+/JoFugpogpSFUCMTlJyVWB1CkTnBBVYIo4PtQVgaaDbhlcLWp381AAhNInP/meDLoFwuYwmhVIrjqHKoEp9N7WTBHHhyS9U69sx551KCYAyL6pBNnqEWeA+m9/swxwLazYvIZSCybMRhwfWhUBNAkkdyWBtI8sTRHHh2o9ggjFM07Fo9YsQ+sBQWA9/aKz+xEngFpkGVfX0eLJgpp6bKM1NzUbcXRozSG2/HKfcDSvEdoU8xrHh66yyt3luTVwuE5GTRGHh668xs519FwDtTi1Bp+miKND/aQrXwprr9YjFq8aVOaP9+7uujyDHgZ1l1APwicAHLPvPuWNJAfLNc4ArVXsXoCotYfUv/1dT3b2eQZoH1nWiCJhTTjQX3YDpoiDQzsbgfX4uw7UQ67NZIQ1J3nyPRn0BdCu9gC0S7dj9tAU3ttNO2Cxp/xOAGHzFd0UrLWqhHqbqjY71zgn1AxF/imOoUBT9uhXquzm7Rmgv6sN+SLGdGnv5tEVIrxTyBfLPk8AdUUEAfXxzlCgeXDQTIAxDUT87UEEe6brDNC/c439Y+H9nsxW7bY44sgQ7T+TGWSQQQYZZJBB/wn9AeRAnQbvLr7LAAAAAElFTkSuQmCC"
+        },
+        {
+            "student_name": "teste222",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADQElEQVR4nO2cUW7rNhBFz1QE/EkDWUCWQu2gSwq6pOxAWooXEED8NEDh9oNkYr8UKF7tyo49/JATiQcawsxw5g4ZE7/d5j9+nwGHHHLIIYcccugxIWstwGwByAEbAbM9QO4dxpuY59D2UJIkLZ+349Egm0nLajYySJJ0Dm1nnkPbQaF95j2kd7C07E3kFwGCeQSRwWAom5vn0H1ANsYC5ABJBRv/tzc5dHdQ+H5rKNVlEAuWpmu9yaGfAfUZEQVkaCFEFMyjIWirxqmSdedjcugK0GxmPa/YiXQI2NsyyMa8k42sNdW4lXkObe0j/lnKjkcD1uYyLn2TQz8DomaVaQFgkKZY6j1pAU3AyVNJ0nTnY3LoWlDS0SDvVFeIeU+dDPprP4jqLW5onkObQM1HECXSMojqKACIBYjNMdSnyX3Eo0NthZj6t38yDyaGb7PEZ8TDQ596xCAjG5rHnSAbJAHza0HkF4y4YFub59Dm0KeKbUBc6i9GLEGzDUXkUCy9g2Dtne98TA5dAtUvuf3t51AsabVa+6wP4tEEBSN+9Cz1zsfk0CVQzz7VA8iaZC6gKfZ6aFrgq4vHEQ8NNYVqNlCtZrCaiCVUlwEgKM2X1DLHnY/JoUugk+yz61LD6WWKzYPU3p5rPBU0W4D59Wg2xmPfL8VqZ8Ll7cxzaBPoJI5olwV+cRlNqOBTvLjzMTl0CdRrGCr0eLK0y9eqUVtfP3xGPAFkI0OTK9OhqQ42xoK9HcxqcUOHcA5tZ55Dt1Co9vXTiCUY7MRsoPlVML/qU5nY1jyHNoe+VOxCVSVzgPT+ghE/gqWDQTrU3VS+F/sJoPP9ES2OAIYWSk79J5KKR5ZPAzV9UpKNgKSvabFa0yPq/rpbmOfQreoaDEWwYmlaA7XYGT8C5Jd6VMPjiKeBUt9GZ7Zva4WmHJAOu75ngtVP+T0RlPuhznQIMO/B3lSqhMlsZl8y1Y8Zk0P/Bfp2gmfeg9XkIr8UyAHNf36c7dm+8zE5dFUoLbRpUY9vxH7Yc95f+U0O3SV0tj9iGU717JO2QH/q2eeDQ70aXtvQK9+xtPCyFjdoGanPiMeHTP/e59fm/5nMIYcccsghhxwC+BuJfiPD5xWbwwAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "teste g1",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADIklEQVR4nO2bX4rjOBCHv1oZ8mjDHCBHkW/W7JH6BvZRcoAB+zEg89sHSU56l12YyaztiUsPTofoo6twUf9UMvHDa/zjxxlwyCGHHHLIIYfeE7KyGqyfGxg7YLQGRjODuW7odxHPoQ2hJn/EAWD+hsYOU5zAohYT7fcGCAkA21o8h3aD5uIA7GOi+ogOrCfkasTMmv3Ec2g3SANBxGkxaQrSwGIHEs+h7aGxW8ysA2Ax4u0i6/+X/+TQoaFW0gBYD2iAGjqu9+wjJKX9xHNoM6jkBmN+7QHi57dk8XbR04O/hY6D6+TQK1C2iEcrO9cazIsBi5G/8rXXfXCdHHodyl0IZsuuwKwLYuyCoJWsZzGYG6zfRTyHNoRQWQmiJGJOF4I0tKlkFHm1qWweDq6TQ69A1SImkKbSe5C0vn1KRZr/cos4CzReE2bXuxGVyNXn2IF9ZCtZDNqE9fuI59DmecTHrUHDfBGjNWusqOklrUScaln6e+jk0EtRYwBy4qApiChJQ1sfJaZA+eHgOjn0CpQtgjiF7AWKP1AqJpBzTILKPreId4eKRVDfeakwcgtzzSezvaxbDq6TQ69APNlBrjXaRPYWcQo1dLDGFLeId4d4RIMcMMpjfftt7VZkU3GLeHeoRo2vYeK5ORXWHzxqnAFa8wh4uIdcaZb5iNK99J7lSaCn6hN4FBzpeU8uPeQWcSooSNLd9Oe1lB4ls4TSuoJQZ2d+F50c+omVT8PzkefYBxFvhpib9B/QwXVy6BVoPekKpS+1lpvwpR9RHh413h16zixzPrmWHo/2RF6t9yzPAz16D2YdaGAxs2tCujV1cGLaTTyHNoced7ryKtXnYmWQal5vd+0inkPbQ1HrEeetDs9lYwBqu9Jnsc8AVa8wdxA/AVhMYzcJWJpsEqMBY/e9DuAeXCeHfi3UJnKYyMdduteJmdtF/wptJ55DG0NlKru9W80eLpJuZhrau98NPwFUo0YrYAaNVwHz6g/aCYufIQHBfcQJoC8nXTzPYteokeoFP+9HnAL6x52u8hlUvwTxMJWtxXPIIYcccsghhw4M/QWQjmdS4jviZQAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "rw4ef",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADLElEQVR4nO2cQarbMBCGv6kNWdrQA+Qoys1Kj9Qb2EfJAQry8oHM34Uk2y9dlGIau8loEfCzPp6GDJqZf6SY+Osxfvl7BhxyyCGHHHLIodeErIwWu00tjNZSHgGY6oTbIctz6PlQkCRFYLx+GHQJQpyNsQegkSTpM/S85Tn0fGgqG4B0v6g4wzUhxTm/MLP2uOU5dBhkN2az23QRITay2z/7Tw6dE2ofngWpFRNo7COM1gimo5bn0GFQJ2mof7RblwBmK4+ApHTc8hx6NjSamVkPOWAwtdi3nFEAMOdS46jlOfQ8CH0e0Em59BhoxFJmbMZwcpsc2gNljyBE0ADkErS4Rar+Ehtp6FKpUt0jXhkq3/kAVZSoykT+GIC6WyyTT26TQ3ugjUfkLz5EIMRG0KWST+ZkovOo8Q5QjRpKaFhixQCsvvEpkrhHvDiU9YgiT08GTD0WNLdiahLjNWHhR5NsA53cJof2QBuFyoLAoEk29lEWfpQXgg/TeLPqOSe3yaE90JJHlOBQMoouURKHCDmjGJY61KPGK0NLHiFp6KTVGWoDdMk2XY94C6hEjdFATAbhfpExGYIZlZZGk2y0psrYJ7fJoT3QZz3iodyssWLo1krE94gXhzZRA7Ie0eQSdM0jVlnTPeJdIH23Fg3dh5UzVBTN0uyach8spxXHLM+hp+cRBrMR7hdBVicawdRDGJCF+DUxrorEyW1yaA9UMsswAPBh0EWAuRU0CZhbYDaF+LXKVCe3yaE90NINT4sUURvhS7mZJ3oe8R7QVqHK1USEmmgWrWptgbke8fpQySOCoPQ1sor9syVHjeminGXQpSp5n9wmh/ZAv52hWhrhpdkZm1qbejf8jaD1Ttf2yk6cjbw9TG250HPM8hx6PpSzyEgVLiMAjfS9X7aMabn093/Y5NAuzTJSTscs6eUqW9ep3vt8B+jxBo+FCBqvgnA3gLktasXUm5+PeH3o0SOAuVW4t4nxBhr7nyiXHt2yWZzcJof2QNvzEfkQfm125rfDWmF47/MtIDaqZO5mLCew882/tQSNnke8A2T685zH4b9M5pBDDjnkkEMOAfwCzs6gEqneAGgAAAAASUVORK5CYII="
+        },
+        {
+            "student_name": "dududuedu",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAAC6ElEQVR4nO2cQW7bMBBF31QCsqSBHsBHkW6QI/VMuQF1FB+gALkMQGG6ICnRdjZpUtmVhgtBVvRgCpl8fs6MIsqnx/Tj8wwYZJBBBhlkkEH7hKSMHmAWGWOPjPlMBGK9YXzI9AzaEEJVVRlUVTV05czTKThV9S7BEDpt7vNP/kwGfQcUFwGIIjK6hPrYA7FHPVAV5DHTM2gzqL+9MJ1Tn3ekg4IAyPD2Dd9k0P8JqV5eVEZmKfLg0j/6JoOeE6oa4RSIwDR26HQKKoNP5LAgQpvJevJnMugrUHGWZXTKED461BvMWe4eyhrRCoB7l3xtOicU3qUoyCOmZ9Dm0N3uMwuFFvdQ9qF0qr7ebBqxa2hZNTpV71RVNaEaoKQnAtleqqckJSwidg3ViLhNRLUfy7VgEXEEqC4ES5Ky0Yj1B5DTVOYs9w/VX7xbVCB0TRys24wSKhYRe4caH1EKGXRLhSPlOKgLRjKNOABU/uyLlQRYXWQAqH6yudkiYs9Q3X2Gqz2nhmocgKoMzmqfR4BqhiqCTgI6vf7uZXjrErgAxBMKcw/uAdMzaHOocZbVO9aDp2aoGvEwjdg7tEREMZD5gLsylT5bTsxZHgDKq4YMlx6FBDCLwgzT2ClEEBCrfR4FahNRa50zH2oCImc0S/7KNGLnUNEImIVS7Ew90CUhnnIPlU6v3VXx88mfyaCvQEvtMzX5iDpqmso7XbyFacTOoSUfAff1rbQUQNual0XErqHFKejSGrEYh9oVkcew9u4/+TMZ9HWoFjsTTLUJXzXMIr8ClChhlgdNz6DNofWdrpKZyA3ZUNQi1ijxD5meQZvvNRg8QPwJw6VPOp1rd+V0Ciqt29x2egZtDl05y7C2U6Z2JQHK0mE+4njQEEBEXlTknGA6wZrFtlXjgFAJgQTDpQfii5YzZns3/ADQbXd+2xrhSj7idtiqsWfo/p2utXmO0qLfeguLiL1DYv+ZzCCDDDLIIIMM+kvoDxE61uWfWY8nAAAAAElFTkSuQmCC"
+        },
+        {
+            "student_name": "fdjshf",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADD0lEQVR4nO2cQYrjMBBFX40DvZQhB5ijyDeYI82Z+gb2UeYADfYy4PBnUZLj7gkMTRon7ZQWIo79SIlUvkpVUkx8ug0/Ps9AQAEFFFBAAQW0T8hKOwCTGUwHrPPOzDszM+vuYl5A20NZkjQC0Mi6dDLgbOrTjHoaSZLeQ9uZF9D20FQEwDq/fJH6JDHYi/yGK8idzAtoM+hw/e00A9NxBkBMX/BJAX0P6B+PGFpMTC2QZiwLLL/ey7yANoeqRySBS0EaYfglGDpDgxWNWGeyHnxMAd0CsY4YaUQer3X1gSxJ/YOPKaBbINeID6nsEjikkzH8PFlRkHuYF9CdoJpxOKCes0GaUT8dfOHpK5FYazwTpB4g62TW0cjMzBhaAM7G0DbyV/cxL6DN4whvPSCNTZ0i0gxZs0cPJaKIOGLvUI0sk+T5SWmmXNKsQs4qI+ERO4eo8tB4FrvIxUhVBr9s3GnCI/YPFY3IY+Npa++kpZoxLl2dP8Ijdg29E4Xli/csNjVwKBPLXAXlwccU0C3Q2iNW8wJQJAPwDNXiG+ERTwBZRyPyHzOG9mwlSTkdyo0iGUtl9FuMKaAbI8slotBc5EE1tvAYE4g44mkg+y2JwcwY7MWzUdb5EzUvdSlufI8xBXRzHFE1YlmMquYo+lQ0IuKI/UOrargBiOk4Wx5bU9kx08jAgDRiud/WvIA2h9bV8LzKQrBkqGafMDxNFXHE7qGiEbkHY2qxrHMpfw8GGtpRgDDSybS1eQFtDq1XGKuSRlJdc9Zyly4tNGLP0JLFriXxy0Yqv7uUQi9uER6xZ2j921/lI7zsua5mRDX8SSCPI+pWmGYWgOWxtbK4eD3KVvv0NzYvoHtBuSYlrIOy4PBddelS+DrHKb8ngqblUOf0IuvSjP3WXE5yDWbmdbB7mRfQZtD1EzzllMbRJxHya+s3Y9Z4Qiir1jmtLZ0vQspG3K/7pIAeEvp4pktD+wakt4MABOf6ajrMm5sX0ObQlTNdRRQuu+rqc5GPeAbI9P9nPrb4Z7KAAgoooIACCgjgL8ivdR9521O8AAAAAElFTkSuQmCC"
+        },
+        {
+            "student_name": "sidney",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADIElEQVR4nO2cTW7jOBBGX40IZEkBOcAchbpBjjTIkfoG0lF8gADiMoCEbxYkZbl7FTgtO3ZxkdiWH1QEmfr5WIqJL4/pn68z4JBDDjnkkEMOPSZkdQSY+tVs+O1buX1huIl5Dh0PJUnSDJADGlnNhhwAVrOBTpKkS+g48xw6Dgr1d+4h/QJLAsivAhaYBhAZDLrlcPMcuj00mRnET4McIGnBhr9yJ4d+CtQJcsCGuGDWd9L4l+7k0B1CLWpEARlIv3qrb1mDyKHEir2SdedzcugboMnMzHoAOpFOARvyi2wAbGAtpcatzHPoaB+xdwCx5Y/Tv59WflSXcQPzHDocolSVaQagk8aLSrOkEOerkqTxzufk0HdAcUFjrHXFLn4QF/Ted2WD2HAj8xw6DGKnPKV58wIARO3G/uqdz8mh6yGNUcUfND1C0pgDTBYws4Dez/L2j5iTQ9dVn6wB8usC8SOQTmGxJLA0vyJYDeKMHW2eQ4dD/B4SNIOkBWmuiSapfVbOPzxqPDJE2wfb6m95RJprPrkrPTyPeHiIC89Qk4nyttahS6s+t0TTd8QjQ+3Pnr2PqNviIohAlDxqPD608wxlzYtMFdtm2O0SPGo8A9QWOW7tMC1qtGyz5piuRzwJtFeoigqxidVbOKHK23it8QTQ3keU4qKkCy29vIwp7iMeH2p6hLY1bzXnbm+MUNyD+4jHhy4UqvkyONC0qk3jdh/x+NDWQ/Vpmt5qa4Qm6xZLWoNBJ0snQ5zbKO58Tg5dA4XzS0unsABdOdIQuQfiDFNPOdLQ0eY5dDjUhKg2dgXHCFWuLClEe+VR46Gh4iNaA2W3aHqrD20Y8SNAXNqhKO4jnghKTbG2AUqY0JhfBPlF597LcvWHzMmhq6C8PdSZA6STmf2nT9N7v9q5i+Zm5jl0GBT++CR+GMQlaLJOJK1B09tHEHjUeEoonV5KUmkDlPgBdGrduN93J4fuEto0S+ncNqMxVl3q3CSxP+u48zk5dA1Uo8ZUqo0OS1qtBodsKM2v5QFxykN/B5vn0OFQW/2vDP/PZA455JBDDjnkEMD/Az+Cx7jrZbIAAAAASUVORK5CYII="
+        },
+        {
+            "student_name": "fsdfsdf",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADCUlEQVR4nO2cQY7jIBBF/x8s9RJLfYA+Cr5Zq480N7CPkgOMBMuWsP4sAMdJr3rSsjN2sUoCTylEpaj64FD4dpt+fZ8BDDLIIIMMMsigY0KsrauvhkRi6meSPQCkNmDYxTyDtoeCJCkCGgFo9BKH0jWTA5wkSbfQduYZtD2UlgDgM0pkCNFJI1zxA5LdfuYZtBnU3b1nuHQQEqGJLjNcuryjeQbtD029E9k7IcSZgP/qEP/dnAz6RmsxwgtAAgD/hwi/X8Ew5k4TASEBayXryedk0A9AE1nrinB5aYufXsT36MQBcyk19jLPoK1jxCoATD0IYC6rr6l30G2EePo5GfQIhFJVBkkIsX22VBgIsb2Cr+M0PvmcDHoEKh6hEU4avVQWHgCKgwRlSMo3g598Tgb9BOQzgEQiXEhJGfp4kzSmDhyu/rKTeQZtBrWfvc9FuCwf1r3ClY6yiQTVIRYjDg1Vj1i2jqZUAlIEAN864LPtGieAmh6RXjPhYykuAB+rHoHE8la4VhxPPieDHoc4ANCYSA7+s8oOUw9gestoRchsesQJoKpHTD2ooLkD4ASkLguYwSJYpR5CerUYcQKo6hGrdKFJEdfjb8sjzgS1zDK2NR+9WoXhpbVCVQoO84iDQ4tChXYhokiTGVJ01VWWDosRx4cWPaJJ2bW1eCCZHnFOKHXQB8kSGcbWzQFOfI+opcde5hm0GbQkkDUKVHGqXbtcDaknHBYjDg7drr5b1Mu7lLMOMY84PrSo2Bm1BPVXSaqda9z7y5PPyaBHoKJQsepSBOABAC4DqadChLiMZhi3Nc+gzaH1SdeSUdQdYskxg6oyYTHi+NBKmkQJFFfZoewfrslUplmeAlrdqquSlK5KZfWDKlR40yPOADWPiGj3ZPziG7FmlqVZ9XlOaCVO8S2DA9YZBYef+yaDnhO6f8oPIQIsO8QIlIc26i1MOw0/E+SrLoWpPfCrMZEa/ScR4vK/ATuZZ9Bm0JdaoxQXTc/GVZe6ZqCWRxwZov0zmUEGGWSQQQYZ9I/QX1KMlz/bMwaFAAAAAElFTkSuQmCC"
+        },
+        {
+            "student_name": "srgffgd",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAeoAAAHqAQAAAADjFjCXAAAD9klEQVR4nO2dQY6DSAxFnwekXoLUB+ijVK48N4Cj9AFGgmVLIM+iylCkR7OAjKJMvhdRh/BUQrJc9reLNueCjX9coUG4cOHChQsXLlz4Y3Er1mLWA2O/mt1mi4/tltsct94et7rwd8Nxd3eSu7tPjZMmIPkCdF5KjTQ1+dfysRHDSz+78Gfh4XUTxbmGLhwuTQA02fV8yNcaz9fkdcJPW3v33eDDLQ3gzM3CeAPSAJamtXXmh64uXDiAD6wGOZtbDbolp3mM/X+/uvD3wO/zOndf8IHGfdh+3TZc5XXCH4GHX2VrSub2Lx9xq7xO+GnLeV3VFht7jPFrwcceg7zN/piPfYMfbr2+uvD3xKsadt9Sqx126EJSyTdvZa5infDzViknRaBr3H0iRDvih+QL9V4rrxN+2nJwqwTiqXHoSklR1RBD5x6hb4uJL/3swp+F1zVs1oFz0bpQOyHxV/IFd9cOK/ySRSIHeV8l9yZCPslhDvChW6qsT14n/IKFclKqhBzI2HbTfC3vuqUjVrZjeZ3wa3jpvs4fzmhtiXrpuwVo3KxfjTSt5gOrmX392CNXF/7GuN264k12m9v81W5zS8n1aNxuRPf/0asLfyM8uv9zuzhzC2nqyXkdcw+wmo/9X60zfy6lzBjWwF762YU/C69q2KghqOfrskrnSyUQSzkR/ii97ljDEuVDrisgRjtjGEBeJ/yCVXpd+auIcdUcyrBncxHrVMMKv2CH3sQhwmXniuFh30ag0Cyx8Gt4JGgh0MVGGiENYni96leoNyH8mnll4XDZUjQt9n5Z5HWLqgnhVyx6E3A4KLb1XCdg22HLMIBrllj4Jat9iOhSbLLwPnhXdJVKXJHXCT9p2xmxtSX52lqacGP+XBxWc3AsTT2kP1vs/lDZSz+78Gfhdfe/iHZNFfpqbS7fv80BKNYJP23hUs1WL+yjddt8U3ylnk2R1wk/a3ted+dmu0Ac455l8E41rPCH5HU+GkC3tDB/uKVhaY3uxzxNnxgdAI1bGlac/aTYSz+78Gfhv2KdT3FabI9we5eMaidWrBN+1naN+J8a//V5sH2qGKScCL9iJWh1pSNRlRTZjr5WTH1Y4ZfMjxaycLMdgN1fdnKUj+V1wk9b6HUAh4Gm/a2J8cJE6tOyyuuEX8WTe/iV/xjMLe7fVo5R5LfGfm3KCWC3B64u/M3wX+/q3ENaiqOwhxoW0A4r/Bp+73X5Wh6323+tjlFsCou8TvhZu39DLNAspO92seTrpiFngbh1WFsfe7A0PGB14e+J/3pX59AdBtWJ104c5ttVTQi/ZL9q2HCp/VolEFfz7fI64WfN9N/rhAsXLly4cOHC/xf43wXunMFE/vn0AAAAAElFTkSuQmCC"
+        },
+        {
+            "student_name": "TESTE QR CODE",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAeoAAAHqAQAAAADjFjCXAAAEBElEQVR4nO2cT66cMAzGPxekWWakHuAdBW7QI/VqcJQe4EmwRApyF7GTDFN1AVRv6HxeRDPATwHJcvwnjigOyPjtCA0QJ06cOHHixIkTPxcXkxYYpQUwtwBmEYz3VaSfRdJfzP5of97sxN8Nh6qqolNV1amx2KKbGgVChOoEpF9DiOlGRQyX/nbiX4W71k1wlZqApH9Jr1Cu+Q2godYRPyDtny+HCB3vn60Cq+jYN1GAJp49O3HiACDyoYpRRB4ur6Kqi2Arr/XyxC+Cu60LCmAGStJYul92UxA+W4y93ajzypf+duJfhZtfZ9JoCiT+Mvij9OuI7xfdygRY0IpGdUhP+a/u8VlqHfFd4jGsWTNVH4CgT0OXkiYR1Dri+yW5bjreIUBYBEADASDA3EZgbqMtwOnvHTqK5/Wu/e3EvwrPfl1OEGuEJYg1G7dsCQcAltyjrSO+W2ypzGqWfLiQI4wQYddgqy79OuInRhMD4CUwAEXNkq4NJcII9OuIn4KvIn1QFfmItoYiLIJuWqUEsm76AOlPnZ34W+FutFCScVZpVU0ennq53/N1yRzSryO+X9yvywspgNq4AfAbeR+Acs8J8UNScsPm1yWxQPYpXzcBqszXET8Bl37rtOVU8Zx3pcytRxjzTaU/b3bi74ZXMazHEDEl7XQIaqWKoShhldejrSO+VyxLV9LCE1BUD6UEaw+bOlLriB+QonW+bz1HDuq2rphDAPBiLLWO+F7xiDRuAwkvUDRPZTHVyBWW+Dm49X7NN7UCxdzCKxImOmCVOsJ4mZcnfkF8FNMwAKv1KNoWFFNHjB+LpMpFjnVf5OWJXxTvJkB6t2G2zM43BbBKimYHAEi72tON82Yn/mZ4vdOp89pY2Tf8kCBmbYL4OXhVEdsUY+1aqHc/VZk7ah3x3ZLWVAHaCIRPUUAh6Vooj60CBEA6XQXdsIieMjvx98Tr2gRgu+q8ZUfVIgz366xUEZg5IX4CXmLYTpe00w7dtD60XQdVjHegak98jZcnfjW8qoMVC1e2m7ivVxcoqh5F2jriu2SrSFo6cx4SxKWDghUx4udEE930PQLz94jxRwSsUbFRIEyQNKBRSXHFabMTf0982/uPcuxEdQCF/qEiS1tHfLeU8BW5W8K6wDYHAADVcYrUOuIHpKo0VIdNPGzetCdd16qmWGod8SP4bEcNSx8WQaeLuP6tYnZtvuWD7bJz9xovT/xi+NMJsQNyP872iJ2yjZgrLPEz8dSK3aNR6YP3Y6fh103l57SKHdP+L2Yn/h74s1+ntXFzyR1kqb+CnYnED8kmhq13NVVNsd4Zax084ApL/IDY+XX5v9rgdYjqUhobrfFLfztx4sSJEydOnPj/hP8G+j1EsKkzkqEAAAAASUVORK5CYII="
+        },
+        {
+            "student_name": "teste",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADDElEQVR4nO2cTYrjMBBGX40Ns5QhB8hR5BvMkXI1+Sg5wIC1DCjULFRybDIwNN2TpOPSIjiOH5GgqJ+vKhHlw2v68XEGHHLIIYcccsih94TEVg/TQH0RERGm4Soy5vbA+JTtOfR4KKqq6gzEs1QTgKAK+acCnaqq6hZ63PYcejyUzQHISKeaQkFT7oFQ6gPVgzxrew49DOr/dlPiuUei1qui5C/4Joe+B3RnEdPxIkzH0uskXVG4yJ1k8eJncugroKCqCSCef6qm3CNjKMhY8whQ1fK87Tn0aGgSEZHBbspp7pR4NgciI9daajxrew49Omqs40IoQLiIQkGn40UgbAPHi5/Joc9A1KoyzsC2yNQUVFdl6fKpphc/k0OfgcwiCKWKEkRdrmaw3OJ25Rbx7pClCjGhQj4UJR8UuPZK7grQFZmGrkichxZdXvxMDn0FlEU0hYtArTCs1gCuUqPGNICMT9qeQw+GNNFUyWkA2GqWll569bkHqEYNIZRe4dpLPPcF8oDEVBACWHMju4q9B2ipNbpWYdTbXa0wNFXpqvU6vNbYCzQN66pDUyiYZnl7tKmX3+VMDn3CR5gDmDutYnWczSmsKlIWecJ9xDtDZhFmDBY/VOfOvMXSzXA9YidQixXL2xS0Ogq7arZhpuIW8e7QOmqk1gDVRLeenIqLo3CL2BUUzyJyWknZZTM55XrELqClwrBYgXmGdaJp1SedZ5Y7gJoeoWvZobZC4yJUxGogHjX2AK0sosWFplXpbJ7B7MB9xK6gLHIbmqp5xHQsyKkmEyIyhovPUO0AanpEW1BDh6WXNxWixQ/3EW8OtU5XXV3R6deMEK495IMK4XcP+VCAq/h8xG6gWIVLm7K1dlcoWDcjFJ+P2Au0nrOscWE2xdoyy7AomqFFFo8a+4Jubc9QkNO5b5JF7pHx6dtz6D9D97/pEurYJXXYkosoeUCnEZ+z3AG0Vqi09cCt1pjBxiU2bQ6PGm8NbXufizjVul9tNML64m4R7w/d/8z338v/mcwhhxxyyCGHHAL4A7+chVOAxRG4AAAAAElFTkSuQmCC"
+        },
+        {
+            "student_name": "teste",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADE0lEQVR4nO2bTY6jMBBGX40tZQlSH6CPYm7WmiPlBnCUPsBIeBnJqGZhm3boVSsSSUN5QUzgKbaofPVjI8qP2/Tn5wwYZJBBBhlkkEHHhKQ0n3vAIhBLT4ZYbxieMjyD9oeCqqrOQNCEDPGiIu8Jpt6pjjhVVdV7aL/hGbQf5Mtn7CFcQYk9OvUI4eoRusUrgIBLuw/PoN0hvzkXcEmCLl6J2QS+56cvPieDHoG2FqHEN3TqZxVwAEUjHv4lg34X1KnqCDD1i8jHvAhBExA9MgCqmrbQfsMzaG9oEhGRHuRjdgrxotUYnAKL1CTkKcMzaG+v0fqFLqFwE+huopDQbSzx4nMy6HFIhijCJCL6V0RkiB6IF5UhVyZ8cSfDU4Zn0BMiyy55ofvnCbp4nXqXmHqHTuJUwhWkiUJffE4GPQJRK08uV6jyYexUCbPT7ERyUJl7qjq++JwMegSirUV2CR23JpAaKzGLOD5U/vb5mVM1otSzVfOBLgFdOTWLODS0WkTxEMUEcJpdRy5U1GqFacRpoOn9JoRPj47RZ7WAmmbkghW5MvGU4Rm0u0aU1c0v55Aad9LcZxpxeKh98GF21QSqwyCsp8Es4hRQzTVqalnjyZpm5NRjdqpjjTLMIg4NVTuYXdGDLArAph6RzcI04vDQqhG6JhdVGUbcmn2qFrMwizg6tEaMqYhCyD0ormOuu+pGMK9xAqipWZZIYV4v1ayDMNNEGWYRh4aa1XCBiwJp/W7xgFMBkHDt9x+eQbtDaz2CGkCuolDiiBJRWGR5Eug+13C17DC7xkpyCxZZngJqa5FNpECVjDbhsHrEGaC71fCvlYtOa4bRtUmIacRpoLCWsr92ZecL+bsEk5Rd2b9lTgY9FkdQ1jVG7jLSvEwONFGGacSZIPmYQUR8DiWZ+rp9auxuUsTjl83JoB+1jUaUKna+tspDXvOq0adpxJGhdS+2AhGU6BG6GYhv9a7YI+CThHHf4Rm0O/Qt11jrETXdrDvtglWoTgFt3+kqvfxiF3nHZb1g730aZJBBBhlkkEFt+w+459AuugdYcwAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "teste",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADE0lEQVR4nO2bTY6jMBBGX40tZQlSH6CPYm7WmiPlBnCUPsBIeBnJqGZhm3boVSsSSUN5QUzgKbaofPVjI8qP2/Tn5wwYZJBBBhlkkEHHhKQ0n3vAIhBLT4ZYbxieMjyD9oeCqqrOQNCEDPGiIu8Jpt6pjjhVVdV7aL/hGbQf5Mtn7CFcQYk9OvUI4eoRusUrgIBLuw/PoN0hvzkXcEmCLl6J2QS+56cvPieDHoG2FqHEN3TqZxVwAEUjHv4lg34X1KnqCDD1i8jHvAhBExA9MgCqmrbQfsMzaG9oEhGRHuRjdgrxotUYnAKL1CTkKcMzaG+v0fqFLqFwE+huopDQbSzx4nMy6HFIhijCJCL6V0RkiB6IF5UhVyZ8cSfDU4Zn0BMiyy55ofvnCbp4nXqXmHqHTuJUwhWkiUJffE4GPQJRK08uV6jyYexUCbPT7ERyUJl7qjq++JwMegSirUV2CR23JpAaKzGLOD5U/vb5mVM1otSzVfOBLgFdOTWLODS0WkTxEMUEcJpdRy5U1GqFacRpoOn9JoRPj47RZ7WAmmbkghW5MvGU4Rm0u0aU1c0v55Aad9LcZxpxeKh98GF21QSqwyCsp8Es4hRQzTVqalnjyZpm5NRjdqpjjTLMIg4NVTuYXdGDLArAph6RzcI04vDQqhG6JhdVGUbcmn2qFrMwizg6tEaMqYhCyD0ormOuu+pGMK9xAqipWZZIYV4v1ayDMNNEGWYRh4aa1XCBiwJp/W7xgFMBkHDt9x+eQbtDaz2CGkCuolDiiBJRWGR5Eug+13C17DC7xkpyCxZZngJqa5FNpECVjDbhsHrEGaC71fCvlYtOa4bRtUmIacRpoLCWsr92ZecL+bsEk5Rd2b9lTgY9FkdQ1jVG7jLSvEwONFGGacSZIPmYQUR8DiWZ+rp9auxuUsTjl83JoB+1jUaUKna+tspDXvOq0adpxJGhdS+2AhGU6BG6GYhv9a7YI+CThHHf4Rm0O/Qt11jrETXdrDvtglWoTgFt3+kqvfxiF3nHZb1g730aZJBBBhlkkEFt+w+459AuugdYcwAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "teste",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAcIAAAHCAQAAAABUY/ToAAADwUlEQVR4nO2cXYrjOBCAv1oZ8ihDHyBHkW+29JH2BtZRcoAG6TEgU/sgyXZ6sssw05nETdVDwLE+JEFRqj9LlF+T+NcvgmCkkUYaaaSRRhr5eqQ0GQAWIcoAZJH2OC4CuY+anrxaI1+LRFVVCaqqmpzq7FUJCXT2qqqpDwzJ6W7wfKx9Gvl4Mq/2JQ/o+1kV8oBMflUuoJuqr5nTyO9BDnf/DWkZNOgiSn4rwCI/5ACOtU8j/yAZ0uoP4VQmfxXiCDI9bk4jD012O+QVyCB4RfAfg4R/RgCngv+o4/bG6Fj7NPLhZBQRkREIlwHC5aSAq05Rf1xqWPb81Rr5UmSNy3Yy+/ZD1SGvStBCC922ccfap5GPI9fYvqAzTrcQvr7Aaw3JdPYF0yEj78imQ1WRVAuqiaZSsGaFUssZWX7IyBu5ie3zCHHqjnVI4z6ij+cyEC7dHTrYPo18HMnOyKiW9t9Me+zGaH30dpYZeZ+MZ1WZ8lBVRf5OTokjgC8ATrdqmkzPXq2RL0WyRWOEze3p1gdw3QHC1aqH+UNG3ko/y5w2T7qH9V1fSi23EhK0H9MhI/fS7VCp0fteS2gRfZWgN5ki0yEjm7S4LKQFaelohTgmqBWOPECYAfJb0ShO5XmrNfIVyd1Zts8n1nf9BGN1j8wOGflfZDwXVC8iMm36kqDqVUs5gr6PXzenkd+EvPGptezbGnfedXePNsLskJGr9JzhWi/rBY9Nr9q4etwV0yEjP8mmQzXyqoX65HrdvueHrF5m5P+StXWILNJzjEDQ6/5x72J/xZxGfheyOUC1pOH7CTazL5+xOUU7b+lY+zTy0aRq717U93OhHmhxdNpyjL4gUx5oX5o9ebVGvha59lOXoddXl97i4ZeBcDmp1BwjUFOOvzunkd+LrCohYXYq5BElDxDPreGDeL4KUVxp49JbsTy1kbeyJX/2GWv2fYzbOIvtjbwjTTdodXu25ldqjnEb0t6aT23kHbLFYDX50z5KbCrlVesXQWGL3568WiNfkdzu/agVsXAZkAnWVpBCd6ctLjPyk/TejxkgvyF4oF0g44rGqjJOpZqgfOqn2rH2aeTjyX7vh875pCLn9cjyhfr5fRQR8FezQ0beyud7P6Td9jEAPiEhoYL/EMK8DGydRAfbp5F/jtQ5n1oIP7PITUsa9VYQmb54TiOPTX6+9wP8VRScSkgLxMkVqj8EaByT2SEj75LrvR/1M7IoIvoup5tgPvfLP6Znr9bIlyJ/vN/sJ8XuODfSSCONNNJII78J+S+05/fl4BBMlAAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "teste",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAAC70lEQVR4nO2cUY6jMAyGPy9I+5hKHGCOEq42R9oblKPMAUYKj5WCvA+JIe3uy2xHbRech6oUPpEIy/7tmIry5TH9+DoDDjnkkEMOOeTQPiGpo0dGQMbZfhlZBJrDZ0zPocdDUVVVE+gZ0HNQ1XPIwPxTgU5VVfUaetz0HHo8NJsDmESE6QTE1Km+v10EABHpnzc9hx4G9TfHEtOQJX70mWnsssS0fNOdHPqfoeojFmGSW5v53js59KpQUNVz+XYRPYeMyAn0TKcyAqqanzc9hx4GVQ8wFbHQAfOgJWrEX0OWmAaARZ4zPYceDhWLuCllK1wEQkaZF4FwfcGLr8mheyBKVhlVlZgA6MphCSIxdWs4UTvx4mty6B7IdON8Qqe33ENINYhEBSFkhPDZwyzmS158TQ7dAxUf0cjGqLmoyFKm0tRp1Z0h14vdR+wZWqNGpsSFUp9MNc0oYmIzGo8au4fscafOPoqE6Mw9bN+CW8QRoNUisICRWr9RvUXIVCtxi9g7ZNIgZIipffp21sJJFRhuETuHzB+sAlITbFLSxnrWLWLvUKMjgE4tw4AiK2qGkWk0plvEnqHVR0BrDGYCJQmJ1hrhFrF/6EpZpq7Gj2IHFkmKbbiPOAZUfcRtl1RYy1S0iadnn/uHmqhRRzBZUZ4+0KhN9xG7h9raQ9ERFjDqTtcqKr2KfQxo3Q3vVOKHoMyDMr1dRAkJYT6hsCDxw/ssjwA1e5/WBrEI0CMEUMi9xF+DCiHbxS++JofugVZlaQWIohnWTa5z2NSmK8sjQOvGZh1WgMhrMoqlGcnrEUeAGh9B0z5lBYiaeKarfXG3iD1DTVfdVrauqQewxQrf6ToI1NYjrsuVW1GiXun9EYeEqmcAZAwX0feTdVN59nkM6M83tuaSacJ0+oTy5oYuAnS2O/7ia3LoHsgsIigwA6UeMQ9Zp7G3XuzSQOPvdB0B+kuukdfatRW1awON1yOOAIn/M5lDDjnkkEMOOfSP0G8SFcwx468dFwAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "teste",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAAC70lEQVR4nO2cUY6jMAyGPy9I+5hKHGCOEq42R9oblKPMAUYKj5WCvA+JIe3uy2xHbRech6oUPpEIy/7tmIry5TH9+DoDDjnkkEMOOeTQPiGpo0dGQMbZfhlZBJrDZ0zPocdDUVVVE+gZ0HNQ1XPIwPxTgU5VVfUaetz0HHo8NJsDmESE6QTE1Km+v10EABHpnzc9hx4G9TfHEtOQJX70mWnsssS0fNOdHPqfoeojFmGSW5v53js59KpQUNVz+XYRPYeMyAn0TKcyAqqanzc9hx4GVQ8wFbHQAfOgJWrEX0OWmAaARZ4zPYceDhWLuCllK1wEQkaZF4FwfcGLr8mheyBKVhlVlZgA6MphCSIxdWs4UTvx4mty6B7IdON8Qqe33ENINYhEBSFkhPDZwyzmS158TQ7dAxUf0cjGqLmoyFKm0tRp1Z0h14vdR+wZWqNGpsSFUp9MNc0oYmIzGo8au4fscafOPoqE6Mw9bN+CW8QRoNUisICRWr9RvUXIVCtxi9g7ZNIgZIipffp21sJJFRhuETuHzB+sAlITbFLSxnrWLWLvUKMjgE4tw4AiK2qGkWk0plvEnqHVR0BrDGYCJQmJ1hrhFrF/6EpZpq7Gj2IHFkmKbbiPOAZUfcRtl1RYy1S0iadnn/uHmqhRRzBZUZ4+0KhN9xG7h9raQ9ERFjDqTtcqKr2KfQxo3Q3vVOKHoMyDMr1dRAkJYT6hsCDxw/ssjwA1e5/WBrEI0CMEUMi9xF+DCiHbxS++JofugVZlaQWIohnWTa5z2NSmK8sjQOvGZh1WgMhrMoqlGcnrEUeAGh9B0z5lBYiaeKarfXG3iD1DTVfdVrauqQewxQrf6ToI1NYjrsuVW1GiXun9EYeEqmcAZAwX0feTdVN59nkM6M83tuaSacJ0+oTy5oYuAnS2O/7ia3LoHsgsIigwA6UeMQ9Zp7G3XuzSQOPvdB0B+kuukdfatRW1awON1yOOAIn/M5lDDjnkkEMOOfSP0G8SFcwx468dFwAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "teste",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADCElEQVR4nO2cTY6cMBBGX8VIszRSDpCjwA1ypChHyg3gKHOASHg5ktGXhW2ank00yQhmmmKBDM1TF+pS/btNvPmYv7ydAYcccsghhxxy6DEhq0eHmXUAq9mYOmxMHZDaA+Mp4jl0PDRIkhaQlDGzJzH3q2kCbCRIknQPHSeeQ8dDqRoAs341hmU1hgVsZDWAzXicI55Dh0Hdq2uRbrdCtnp6h29y6HNArzWCebytV4P4YiK9wzc59DmgphFRQAKDkAGVlc0WZMMv2FeyPvg7OfQO0GxmZj3U6GFzHcMCwFpSjbPEc+hoG3EzAILcTgk0f8vo3kJ8+Hdy6P+hW9kBWI25rycby2OrQeqol5/inRz6N4h9nSFmNMUMw1ILEJpiLVRAVLv3wd/Jof+BaD9z04Op3N5WsanFRFCpZLlGPD5UvUYxDyCVClWQ9FyL2iUPnU4Rz6EzbIQEBFWjQND+kSWIQRn3Go8P7eKIm/+oKtBOzWuAe43Hh+6yz9SXlUGgOBHii2l47rINAjtaPIcOh4pGGHHBhil3QJCVwIF1uwwwW8g6WjyHDoeajUiGSD3M33935YefLchIX4seiNSba8TjQy16WIKam8hoijXQ1BQzNdCMHlleCYoZTempGoFhWU3Si0F6EsRtdZJ4Dh0GvbYRNaXYMoxSrmS7dBvx6FDNPoeWc1bduDmMVrP0esRFoC37DLLiHGLeOp1BpTlOXDuVSYnpWPEcOgkys67GEcOyWhm2LK3QZKYpPcnG88Rz6KROV8kmSrtr633CNjaDe40LQK2KHXO9rhEFu754/WDx3ucVoF2nq+mGajejNjco3QyPLC8F3fZ0la0axBdj7kE/e4DUwez7NS4BbdlnLUrcGQqKEyk2okxPuI14dKhpxMJWl8pbh3w/JOFe47JQmcHdPESsFoTZvIp9Rch+LNs6Zhieu7KboxQqxpPFc+gwqE1J6Wff9v8Oz3XLzn4G9yTxHDoMupvOb2Xr2/D1rkLl9YhrQKa/P/P68H8mc8ghhxxyyCGHAP4ANtFajCdSkJIAAAAASUVORK5CYII="
+        },
+        {
+            "student_name": "teste",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADDUlEQVR4nO2cTW6jQBCF3xuQvAQpB+Aozc1GOVJu0H2UHGCkZmmp0ZtFdwPOJko8A44pLyxI/IlquVQ/ryqh8OVX+PV1BjDIIIMMMsggg54TYnm1IPuZZD8TgSTHiQSm+oHxEPMM2h9ykqQIwEVAfrqoXAHgiEaSpFtoP/MM2h+algCARhwxk2OXQA6puAXZHmeeQYdB8hMJFwFgagH33n4OfetJBj0m9PH7JjoBYUgtwiAg9P/qSQb9LKiT5AFIcS75w8WZQCdxBCApHWeeQXtDgSTZAxyni+DeLwKmi/g7Z405txpHmWfQ3lljlbIFXCngynqboO0H9jXPoIMgjjUK5JYi9E1OIkWK6AGOk+kRJ4Pku7QpF8jhmp1BHjP12h9rnkH7QCjKU5cgxUZw9RZOCeUXVZzKOpV/8DMZdD+U5cpQ1SgATa4spVg0brgIcDzEPIMOmGv0ADC1WFsKvQ5XIvSAfCetDeoPOZNB92SN+p2neotaWS4DD/lOsqzx/NBSJDTlbZlv1cFXU/zFxcY84gRQCQqK22ghn32jybkiBwq/Xj34mQy6B6oeIeXwkDuMPOlaXGCNFhYjnh7adp+5Uojrz6QsTziV3tQ84izQRp8c0QiBbZ6Lk7yUJBJ66z7PAN3KTwk1V1T10tV0UmoLixHPDm3azVIpxOolix+sval5xPNDefZJAFAYUt6YoXt7SQpDmXjSvbcJpUHd1zyDdodqPFg6DKdaY/o63MiBIjccFiOeHVq26hohDAIDGxHd3G5WIlx8AcLY1CWqBz+TQfdAG83yg0iZa4s1V7holeUZoJsdqk4gugS6CBDdHwKYCedLqbG7eQYdBN2sT83Uaz+zTroS8p7+geYZtH8d4TwATC+Ae2tB4KL8VsqKdAM9+JkMugfaaA9ltIUbFduvPadNw08MBW7/nKssYMb/8SSDHg36GCPW9dt6tUy/IkyPOAG0KFRSmW7GdV+qVg/ZD9arBz+TQfdAm0kXsvbQrePvkjDKugRsGn4GiPafyQwyyCCDDDLIoG9CfwG90XWCxsRZ5wAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "@@@@@@@@@@ TESTE ALUNO 123 @@@@@@@@@@",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAcIAAAHCAQAAAABUY/ToAAADjElEQVR4nO2cX4qjQBDGv1qFPCrMAeYoeoM50rA306PMARbsx4Dh24eqbjXJzMKwkjh89WDU+EMbiur6123E92T89U0QEClSpEiRIkWKfD7SQmpYn8ysTzWAZGY9LhaPpvxU/+CvFflcZO0/3QAA6QVEAgicjUA1A+mFGN/+1HEJwB73tSKfmUxhX8zauBOXr+dseACYWf3/3inyZ5IcmhkYW4ADAHQTgG6qaP1u7xR5bLK+vtFNIJBOxPh2ti+yR8cap8j9yYbkgJjB0NFdH1ifTsTYhmNN5j+OOk6Ru5GjmYUrlGpYn2rY+8cpzFDnZxcPyx7/tSKfigRvZA6nKIxRRaCZb54bjjVOkfuRrhvoporklGerbqrIwdWHrkPoOIOcKqKTDom8ITk0ZzN7nXNs38x+4JBqj9CySp01l4m8S452Yrg96UQgmQG4eJ7a3qeKnsA2yz7SMccpcgcSixe0BGdxa4JPXnFvquQPifycHK0GkGqgI93mYGwjTw00M6zHxQtp1j/6a0U+Fbm1Q3N2e1C5nx0Hj9VIDiVCkx0SmWUzb5XJq5mxCtNcXMMAxWUi75BmbUWMr2RMXqmG9Q3dIi3x/uIyHXOcIvcgS36oFFkXfcFyyLG9/ys7JHItrkORRWS2NM36LBygxSJJh0SuxOv2HPsTDellBpJFxwdwqdF9GABUs3W8GICK6kETuZWwQ4gaxlKyz/NbxeVM+SGRdyQ0olnCL9LLYiXUXypnOVaTDolcSfjU+bDKAHGVH2LuAqHyQyKv5coORdvHFJmifC9H+QMgn1rkleTYfklHb1o8IjW0flh2SOTnZKph71NFjC28hhYrzbI/ZNZetL5M5JWskj9D8ZqHkhoqVY9oU1v8pmONU+R+5CbHOAEoza9ZSlyWL6VDIreS/Zt1NJYPyCaIm4y1/CGRG1nZIQC5Ez/X6KO+WqSE+tIhkUW4laxDG4s0NFxlsWWHRN4hl30/vJnRDwCW5Yl+z2O1//JOkT+FXOWpV+1nA6L9bO1xs6whkh0SeYdMZV+hnBAysxN9qVA3wZfCAs1Z+SGR/yA7kvZeMtZDntpy6SMXPJ7ja0U+IelLOnxpWdkHbWxjMwf+1j5oIq8l+84NAd8CLVUzRgOI1MJTi+PbBIwtDN2ymcyxxilyP7L0oAG4bqBuYkXQKoGt/JDIG/lql6ovRXucixQpUqRIkSJ/CPkXpz5MYuN3CYAAAAAASUVORK5CYII="
+        },
+        {
+            "student_name": "TESTE GRUPO BOOTSTRAP",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADB0lEQVR4nO2bTW7bMBCF35QCvKQBH8BHkW6QIwU9Um9AHiUHCEAtDVB4XXAoUUk3qVvZkUYLw6D4wSQ8mDc/pBBffuKPrzOAQQYZZJBBBhm0T0j06YAoIjIAAMYOZQxjnTA8ZHkGbQ/1JMkEyOBJ/jxPgni9CeAzADiSJNfQdsszaHtoVAfAgEnk9e1EGcYTyTcRAKje4kHLM2gzqPs0MnZgvGYUhxAHl//NLxn0PSF5TY4lhBgwCfo0yf/5JYOeE0KJDzSOcGSoYwxwRJ/0o5kXnnxPBt0DqWrE4ggcpE+XLP2vS5Y+XeZpa0fx5Hsy6B6oWMRSyiaQgWIC/lYSDrYTtl2eQZtDVTVmcQg+g0z1BYCSm6JnrnLy5Hsy6B5IfUS83oTxmiHASe0gDi4TAATjJQNwVo84ANS4guoZMhg8SXIpTrV+w3zErqH6J/tVwlFMYPmwXON40CgCjB0Qz1OpXsowauFSBn8TkfMkDA9ankGbQW3tYelhtKoBLM7DfMRxIH8ThvFEBkzqLTB2YIAjQ+l6zEWJb7Ing/4GKrmGwDsCPgHw7x36dBbGF6KUqeKgs7n18gzaHGojSwDQinXSrAMl1yjlbQ0vTTV2Dc3Zp5sTjozS3AioGenywixi95D+yUyumAXUNjTnVAOpdUyLLPcPrarY9SCVKkRCNYb1YxZxBMjfRE9FeLKciohXUl7fTtRzlucHLs+gzaBGNTS8rKWI1imYahwHalUDqIKhWqG5RjPbLGL30FyzXOehPkPrmNCso4xZHLF7aD5Vl9GEko1MpNVs8xG7hz4mEsUE+trSWLoZNcAwizgEtNzpUoUoHQ5HxHNtc/T15sY32ZNBd6rGnHDM0QNr9bL6CIsjjgCh1YqacFTV0JplHTPVOCJUjkYELD5ijiNGU40jQB9v+UlJLsYLAUwd48t7xyguM55dlj5suzyDNoc+xRFMy7u5L56qyzDV2D3UXstYep/z4WuNI3x7c8MsYtfQH+50ASi24Vm/raY8/Z4MMsgggwwyyKBtoN8HP+yPrJAqaQAAAABJRU5ErkJggg=="
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "qr_code": "iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADAElEQVR4nO2cTW7cMAxGHysDs9QAOUCOYt+gRyp6M/soc4AC8jKABl8Xkjxu003SxJ6MqVX882AKIWjyIz0m3rymb29nwCGHHHLIIYccekzI6uqwYe7KFRtmMxsAmNsNwy7mObQhhCSJXpKUgjQS6uFYrmboU9DqvvHO9+TQR0BLPOjT1ZjOV7MhSjYQSjViZt1+5jm0G2QDQdLlJI2zGdP5s57k0JeBrku0AOnSofGTnuTQHUOxJg5Mz7mcMXvOMJ3BBlpGsZd5Dm0NTWZmdgb6y6nKmP3lJPuRALiWUmMv8xzauta4LYhqHpGCgKC/l9cajw/ZQBUg2vkgiC8GMTe14lzv+yJ7cuh9UKso56es6VlUl4gJQZD147UTXDuYu5ZI3PmeHPoIKL7YTa6Umiihce6wYT5JY3zxPOIAUNUsa7qQm4SZoNQfUqbpmBnXLB8fqpnluByOTaSUElRlO2Y0Rs8sDwT1pWmRgfbfL8UoMUN/6f4FbWeeQ9tXnyksw1Stq1XeGonqL8SMx4jHh5Y8ghIZ6l8ElcPaFG3vD/eIh4dW3fCST/aJ2sioLxFpnVu4Rzw61GJEbIXErfQYYwYI69lcrzUeHlp5RC04WlBYDdAsDuIx4jjQfGqBItVuuA0xA/HFNMZM63ntY55DG0NFpCxuQVAZpIKr1VbobKaf593Mc2jzvoZByBB/FZ1azCEzGTB9L8lEXkN3vieH/gcqHiHmJ2AZwwZMEDL9xRAxYX26bm+eQ5tD6/mIW+5Y56WWfDLhKvZRoHX1uVSatbWVaHJlWcGn8w8DNUEyF4XKBqB4yWRmK/1qH/Mc2kfFhqY9lAtF1I5Sna+L3g0/AvT6m654a46HPztdnkccAVqPyPQp1HjQq+WTt5n8Xq5ZHhHSz3PVqsyeM2bnOjtz+3Ljy+3Jobes7tWZmLDyGU+RMJERcyeg5Rt3vieHPgK6ZQ/L+O1I+5yrjN9+0JMcum/oda0R62hdSytoFYbrEYeAzH+ZzCGHHHLIIYcceif0GwL8eZXXXIBbAAAAAElFTkSuQmCC"
+        }
+    ],
+    "device_info": [
+        {
+            "student_name": "efrd",
+            "access_time": "2024-09-11 11:14:48",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "4r3etgdf",
+            "access_time": "2024-09-11 11:18:00",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "teste",
+            "access_time": "2024-09-11 11:21:25",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "teste222",
+            "access_time": "2024-09-11 11:22:26",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "teste g1",
+            "access_time": "2024-09-11 11:24:06",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "rw4ef",
+            "access_time": "2024-09-11 11:29:25",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "dududuedu",
+            "access_time": "2024-09-12 20:33:11",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "teste",
+            "access_time": "2024-09-13 21:30:20",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "teste",
+            "access_time": "2024-09-13 21:30:27",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "teste",
+            "access_time": "2024-09-13 21:30:31",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "teste",
+            "access_time": "2024-09-13 21:30:37",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "@@@@@@@@@@ TESTE ALUNO 123 @@@@@@@@@@",
+            "access_time": "2024-09-13 21:33:07",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.118 Mobile Safari/537.36 XiaoMi/MiuiBrowser/14.17.0-gn",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "@@@@@@@@@@ TESTE ALUNO 123 @@@@@@@@@@",
+            "access_time": "2024-09-13 21:34:28",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "@@@@@@@@@@ TESTE ALUNO 123 @@@@@@@@@@",
+            "access_time": "2024-09-13 21:39:19",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "@@@@@@@@@@ TESTE ALUNO 123 @@@@@@@@@@",
+            "access_time": "2024-09-13 21:39:20",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "TESTE GRUPO BOOTSTRAP",
+            "access_time": "2024-09-13 21:39:36",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "TESTE GRUPO BOOTSTRAP",
+            "access_time": "2024-09-13 21:39:47",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "TESTE GRUPO BOOTSTRAP",
+            "access_time": "2024-09-13 21:40:27",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:41:38",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:42:07",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:42:09",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:42:12",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:42:48",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:42:53",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:43:03",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:43:05",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:43:12",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:43:13",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:43:14",
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        },
+        {
+            "student_name": "AMIGO AQUI",
+            "access_time": "2024-09-13 21:44:42",
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36",
+            "system_info": "Linux 4.4.0-19041-Microsoft"
+        }
+    ]
+}
